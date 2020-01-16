@@ -32,3 +32,7 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+.project p {
+     text-align: center;
+}
